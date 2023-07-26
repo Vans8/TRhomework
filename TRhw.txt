@@ -1,2 +1,2 @@
 homework1
-"C:\Users\GVane\Downloads\текст.jpg"
+текст.jpg"
